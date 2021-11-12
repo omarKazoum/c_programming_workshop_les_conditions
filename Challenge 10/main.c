@@ -10,13 +10,14 @@ Vapeur si la température est strictement supérieure à 100, 100 < t.
 */
 int main(){
     printf("ce programme vous aide a determiner l'etat de l'eau d'apres ca temperatue \n");
-    printf("alors dit mois ca temperature\n");
+    printf("alors dit moi sa temperature\n");
     
     float t;
     scanf("%f",&t);
+    printf("Etat de l'eau: " );
     if(t<=0){
         printf("GLace");
-    }else if(t<=100 && t!=0){
+    }else if(t<=100){
         printf("Eau");
     }else{
         printf("Vapeur");
