@@ -1,8 +1,8 @@
 <h2>La Workshop de la programmation en language c (Les conditions)</h2>
 
 <p>
-	cette Workshop contient 10 program pour comprendre les basics du language c pas à pas en étant pratique.
-	pour consulter le source code de chaque app il suffit de clquer sur son nom dans la lite ci-dessous.
+	Cette Workshop contient 10 program pour comprendre les basics du language c pas à pas en étant pratique.
+	pour consulter le source code de chaque app il suffit de clquer sur son nom dans la liste ci-dessous.
 	pour en savoir plus sur le workshop veuillez consulter le cachier de charge par <a href="https://github.com/imanegannaoui/Langage-C/blob/main/Conditions.md">ici</a> 
 	<ul>
 		<li><a href='https://github.com/omarKazoum/c_programming_workshop_les_conditions/tree/main/Challenge%201'>Challenge 1</a> </li>
